@@ -70,6 +70,7 @@ Driver JDBC do MySQL (adicione o .jar ao classpath se necessário)
 
 IDE (NetBeans, Eclipse, IntelliJ, etc.)
 
+
 🧠 Estrutura do Projeto
 bash
 Copiar
@@ -81,8 +82,8 @@ biblioteca/
 ├── ConnectionFactory.java      # Gerenciador de conexão JDBC
 ├── UsuarioUI.java              # Interface gráfica Swing
 └── outros arquivos Swing...
+
+
 👨‍🎓 Autor
 Desenvolvido por Pablo Phelipe Inacio Lopes
 📧 pabloinacio101@gmail.com
-🔗 LinkedIn
-
